@@ -4,7 +4,7 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,rust,elixir,ts&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,rust,sql,elixir,ts&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
