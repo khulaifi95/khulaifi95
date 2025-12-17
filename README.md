@@ -8,7 +8,7 @@
 
 **Databases**
 
-<img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" width="48" height="48"/> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="48" height="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Apache_Iceberg_Logo.svg" alt="Apache Iceberg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" width="48" height="48"/> <img src="https://ducklake.select/images/logo/DuckLake_Logo-horizontal.svg" alt="DuckLake" width="48" height="48"/> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="48" height="48"/>
 
 **AI/ML**
 
@@ -25,4 +25,4 @@
 
 **Editors**
 
-<img src="https://cdn.simpleicons.org/neovim" alt="Neovim" width="48" height="48"/> <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg" alt="Helix" width="48" height="48"/> <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="48" height="48"/> <img src="https://raw.githubusercontent.com/zed-industries/zed/main/assets/images/zed_logo.svg" alt="Zed" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/neovim" alt="Neovim" width="48" height="48"/> <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg" alt="Helix" width="48" height="48"/>
