@@ -4,7 +4,7 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,rust,sql,elixir,ts&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,rust,ts,elixir&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
@@ -16,7 +16,7 @@
 
 **Tools & Infrastructure**
 
-[![Tools](https://skillicons.dev/icons?i=arch,linux,bash,git,gitlab,docker,kubernetes,aws,cloudflare,tailscale&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=arch,linux,bash,git,gitlab,docker,kubernetes,aws,cloudflare,uv&theme=dark)](https://skillicons.dev)
 
 
 **Frontend**
