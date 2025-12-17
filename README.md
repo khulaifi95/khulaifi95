@@ -8,7 +8,7 @@
 
 **Databases**
 
-<img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" width="48" height="48"/> <img src="https://ducklake.select/images/logo/DuckLake_Logo-horizontal.svg" alt="DuckLake" width="48" height="48"/> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" width="48" height="48"/> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="48" height="48"/>
 
 **AI/ML**
 
