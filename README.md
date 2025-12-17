@@ -4,23 +4,23 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,rust,elixir,ts,js&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,rust,elixir,ts&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=svelte,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=bun,svelte&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=duckdb,postgres&theme=dark)](https://skillicons.dev)
 
 **AI/ML**
 
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
 
 **Tools & Infrastructure**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,aws,gcp&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,kubernetes,arch,linux,bash,aws,gcp&theme=dark)](https://skillicons.dev)
 
 **Editors**
 
