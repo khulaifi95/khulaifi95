@@ -8,11 +8,11 @@
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=duckdb,postgres,iceberg&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" width="48" height="48"/> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="48" height="48"/> <img src="https://cdn.simpleicons.org/apacheiceberg" alt="Apache Iceberg" width="48" height="48"/>
 
 **AI/ML**
 
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,spark&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="48" height="48"/> <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="48" height="48"/> <img src="https://cdn.simpleicons.org/nvidia" alt="CUDA" width="48" height="48"/>
 
 **Tools & Infrastructure**
 
